@@ -154,4 +154,3 @@ cd iso
 ### 2) Default user is `liveuser` and password is `liveuser` sign in with these and wait for the iso to finish the initial downloads
 
 ### 3) A nice calamares installer is also included to guide you through the installation process, in case it didn't start automatically using the launcher shortcut from [above](#launch--reload-applications), you can start it manually by searching `install system` in the launcher or by running `sudo calamares -d` in a terminal, which will also give you some debug info that you should include in an issue if you encounter any problems.
-# elarch-iso
